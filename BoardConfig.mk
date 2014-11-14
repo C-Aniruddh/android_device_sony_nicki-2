@@ -149,6 +149,6 @@ BOARD_SEPOLICY_UNION += \
     netd.te \
     rild.te \
     surfaceflinger.te \
-    system.te \
+    system_server.te \
     ueventd.te \
     wpa_supplicant.te
